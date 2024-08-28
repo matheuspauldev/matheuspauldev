@@ -1,7 +1,7 @@
 ### Olá, eu sou Matheus Paul e seja bem-vindo ao meu GitHub!👋
 
 - 🔭 Estou estudando Engenharia de Software pelo Descomplica
-- 🌱 Aprendendo HTML, CSS, JavaScript, UX , etc...
+- 🌱 Aprendendo HTML, CSS, JavaScript, UX/UI, etc...
 
 <div align="center">
   <a href="https://github.com/matheuspauldev">
